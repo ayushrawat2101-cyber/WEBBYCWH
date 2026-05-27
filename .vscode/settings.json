@@ -1,0 +1,6 @@
+{
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.editor.enablePreview": true,
+    "liveServer.settings.multiRootWorkspaceName": "htmlweb",
+    "liveServer.settings.host": " 192.168.29.110"
+}
